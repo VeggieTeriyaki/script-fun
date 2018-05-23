@@ -1,0 +1,24 @@
+{
+  "name": "script-fun",
+  "version": "1.0.0",
+  "description": "Node app to generate random sentences from a script.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeggieTeriyaki/script-fun.git"
+  },
+  "author": "veggieteriyaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeggieTeriyaki/script-fun/issues"
+  },
+  "homepage": "https://github.com/VeggieTeriyaki/script-fun#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.0.1"
+  }
+}
